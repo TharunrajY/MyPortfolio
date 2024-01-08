@@ -28,7 +28,7 @@
     text-align: left;
     flex-wrap: wrap;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   
   article {
@@ -41,7 +41,7 @@
   }
   .about-containers{
     display: flex;
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 20px;
 }
 .details-container{

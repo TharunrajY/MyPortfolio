@@ -1,5 +1,9 @@
 .navbar-nav .nav-link.active-link{
-    color: var(--primary-color);
+    color: black;
     font-weight: 500;
 
+}
+nav{
+    background-color: var(--primary-color);
+    color: black;
 }
